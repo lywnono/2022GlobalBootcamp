@@ -1,4 +1,8 @@
 # 2022GlobalBootcamp
+
+## Team member:
+* Oscar Fang
+
 Lecture material for Global Summer Bootcamp
 
 ## Installation
